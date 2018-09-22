@@ -19,6 +19,8 @@
         android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity android:name="vell.layput_uiwiget.MainActivity" >
+        </activity>
+        <activity android:name="vell.layput_uiwiget.event_onclick_in_xml" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
