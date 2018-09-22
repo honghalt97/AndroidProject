@@ -18,9 +18,10 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="vell.layput_uiwiget.MainActivity" >
-        </activity>
+        <activity android:name="vell.layput_uiwiget.MainActivity" />
         <activity android:name="vell.layput_uiwiget.event_onclick_in_xml" >
+        </activity>
+        <activity android:name="vell.layput_uiwiget.Calculator" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
